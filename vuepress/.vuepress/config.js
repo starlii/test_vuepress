@@ -1,5 +1,5 @@
 const path = require('path')
 module.exports = {
-    base: '/test_vuepress/', 
+    base: '/vue-cli3-analysis/', 
     dest: path.resolve(process.cwd(), 'docs')
 }
